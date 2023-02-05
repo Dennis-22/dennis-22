@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dennis Oduro Jeminal============================================================================================================================================Full-stack Web And Cross-Platform Mobile App Developer------------------------------------------------------I have been coding and building awesome web and mobile app projects for the past four years* 🌍  I'm based in Accra, Ghana* 🖥️  See my portfolio at [My portfolio](http://jeminaldev.netlify.app/)* ✉️  You can contact me at [dennisjeminal8@gmail.com](mailto:dennisjeminal8@gmail.com)* 🧠  I'm learning Web3
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dennis Oduro Jeminal.
+Full-stack Web And Cross-Platform Mobile App Developer.
+I have been coding and building awesome web and mobile app projects for the past four years* 🌍  I'm based in Accra, Ghana* 🖥️  See my portfolio at [My portfolio](http://jeminaldev.netlify.app/)* ✉️  You can contact me at [dennisjeminal8@gmail.com](mailto:dennisjeminal8@gmail.com)* 🧠  I'm learning Web3
 
 ### Skills
 
